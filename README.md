@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on sensors and IoT for construction automation.
+- 🌱 I’m currently learning sensor fusion and IoT data management.
+- 👯 I’m looking to collaborate on construction site automation.
+- 📫 How to reach me: ayennew@gmail.com
+
 <!--
 **ayenewdemeke/ayenewdemeke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
